@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class School {
 
-//    Student student = new Student();
 //    Student stuArray[] = new Student[3];
     List<Student> stuArray = new ArrayList<>();
 
